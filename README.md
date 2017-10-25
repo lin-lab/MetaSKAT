@@ -2,10 +2,10 @@
 
 MetaSKAT is a R package for multiple marker meta-analysis. It can carry out meta-analysis of SKAT, SKAT-O and burden tests with individual level genotype data or gene level summary statistics.
 
-## User Group:
+## User Group
 Please join the [SKAT/MetaSKAT Google Group](https://groups.google.com/forum/#!forum/skat_slee) to ask / discuss / comment about SKAT/MetaSKAT.
 
-## Download:
+## Download
 We uploaded the package to CRAN. You can download the package, manual, and vignettes [here](https://cran.r-project.org/package=MetaSKAT).
 
 ## References
